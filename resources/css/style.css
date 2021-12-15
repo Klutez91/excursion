@@ -26,6 +26,7 @@ h3 {
     color: aquamarine;
     font-weight: normal;
     font-size: 16px;
+    text-align: center;
 }
 
 .video {
@@ -42,4 +43,9 @@ h3 {
 
 .footer {
    text-align: right;
+}
+
+span {
+    color: gray;
+    padding-right: 10px;
 }
