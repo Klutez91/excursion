@@ -14,7 +14,6 @@ h2 {
     color: white;
     font-weight: 300;
     font-size: 42px;
-    padding-bottom: 5px;
 }
 
 h3 {
@@ -35,4 +34,12 @@ h3 {
 
 .camp {
     height: 300px;
+}
+
+.android {
+    padding-top: 370px;
+}
+
+.copyright {
+    float: right;
 }
